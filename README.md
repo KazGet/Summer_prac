@@ -35,7 +35,7 @@ LassoCV is regularization with automatic alpha selection.
 Plot feature importance of the CatBoost and XGBoost models.
 The intersection of features selected by different methods was also performed.
 
-4 4. Building models
+4. Building models
 The CatBoostClassifier model is designed to work with categorical features without coding.
 The XGBoost model is trained on the final signs (after selection).
 Checking quality metrics: accuracy, recall, confusion matrix.
