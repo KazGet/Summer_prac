@@ -1,7 +1,6 @@
 # Summer_prac
 The repository with my summer practice in machine learning. Work was carried out with data from the cardiology center.
-Dataset: https://docs.google.com/spreadsheets/d/1nOU26LN3ZpF8GAHlur18EOvYBYzI3B37/edit?usp=drive_link&ouid=110453465962436740825&rtpof=true&sd=true
-
+Data: https://docs.google.com/spreadsheets/d/1RBeg3MbIcY3qDUxdceGVDfBQzDC39HGc/edit?usp=sharing&ouid=110453465962436740825&rtpof=true&sd=true
 The aim of the project was to reduce the dimension and build an interpretable model predicting the outcome of coronary angiography of patients (degree of stenosis). The work was performed on the basis of a medical dataset containing more than 150 signs, including clinical, laboratory and angiographic parameters.
 
 The project is implemented in Google Colab and published as Jupyter Notebook.
