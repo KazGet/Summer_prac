@@ -21,7 +21,7 @@ IterativeImputer (MICE),
 missForest (based on RandomForestRegressor).
 Each method was used with subsequent verification of the quality of the models on the relevant data.
 
-📉 3. Dimension reduction 🧪 
+3. Dimension reduction 
 3.1. PCA (Principal Component Method)
 The PCA method is used to estimate the proportion of explained variance.
 The features that most strongly influence the first components have been selected.
