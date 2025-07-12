@@ -4,7 +4,7 @@ Data: https://docs.google.com/spreadsheets/d/1RBeg3MbIcY3qDUxdceGVDfBQzDC39HGc/e
 
 The aim of the project was to reduce the dimension and build an interpretable model predicting the outcome of coronary angiography of patients (degree of stenosis). The work was performed on the basis of a medical dataset containing more than 150 signs, including clinical, laboratory and angiographic parameters.
 
-The task is divided into 3 sub-tasks: 
+The task is divided into 5 sub-tasks: 
 
 1)Predicting the result of coronary angiography: take signs from the following graphs — from J to BJ and from CI to GJ (of these, indicators from graphs from CZ to GJ are especially needed).
 
