@@ -8,6 +8,8 @@ The task is divided into 3 sub-tasks:
 
 1)Predicting the result of coronary angiography: take signs from the following graphs — from J to BJ and from CI to GJ (of these, indicators from graphs from CZ to GJ are especially needed).
 
+2)Classification of patients into 4 classes (multiclass classification) according to all criteria (column CH).
+
 3.1)Predicting the patient's entry into group 3 (column CH) according to clinical data — graphs G-K, O-AD, AL-AR, AX-BJ, CJ, CK.
 
 3.2)Prediction of the patient's entry into group 3 (column CH) according to the stress echocardiography graph CR-GJ.
