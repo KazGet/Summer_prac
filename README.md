@@ -4,6 +4,12 @@ Data: https://docs.google.com/spreadsheets/d/1RBeg3MbIcY3qDUxdceGVDfBQzDC39HGc/e
 
 The aim of the project was to reduce the dimension and build an interpretable model predicting the outcome of coronary angiography of patients (degree of stenosis). The work was performed on the basis of a medical dataset containing more than 150 signs, including clinical, laboratory and angiographic parameters.
 
+The task is divided into 3 sub-tasks: 
+1. Predicting the result of coronary angiography: take signs from the following graphs — from J to BJ and from CI to GJ (of these, indicators from graphs from CZ to GJ are especially needed).
+3.1 — predicting the patient's entry into group 3 (column CH) according to clinical data — graphs G-K, O-AD, AL-AR, AX-BJ, CJ, CK.
+3.2 — Prediction of the patient's entry into group 3 (column CH) according to the stress echocardiography graph CR-GJ.
+4. Prediction of a bad prognosis is the value of 1 in the MH graph according to the stress echocardiography graph CR-GJ.
+
 The project is implemented in Google Colab and published as Jupyter Notebook.
 
 The main stages of work
